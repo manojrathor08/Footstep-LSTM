@@ -1,6 +1,3 @@
-"""
-Class for managing our data.
-"""
 import csv
 import numpy as np
 import random
